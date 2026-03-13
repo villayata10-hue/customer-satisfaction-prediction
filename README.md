@@ -21,7 +21,7 @@ helping improve customer experience and support efficiency.
 
 The project follows a structured data science workflow:
 
-##🔹 Data Preprocessing
+🔹 Data Preprocessing
 
 Handling missing values
 
@@ -29,7 +29,7 @@ Data cleaning
 
 Date format conversion
 
-##🔹 Exploratory Data Analysis (EDA)
+🔹 Exploratory Data Analysis (EDA)
 
 Ticket type distribution
 
@@ -41,7 +41,7 @@ Ticket trends over time
 
 Customer issue analysis
 
-##🔹 Feature Engineering
+🔹 Feature Engineering
 
 Age group creation
 
@@ -49,11 +49,11 @@ Date feature extraction
 
 Encoding categorical variables
 
-##🔹 Model Building
+🔹 Model Building
 
 Random Forest Classifier used for prediction
 
-##🔹 Model Evaluation
+🔹 Model Evaluation
 
 Accuracy score
 
@@ -61,7 +61,7 @@ Confusion matrix
 
 Classification report
 
-##🔹 Visualization
+🔹 Visualization
 
 Distribution charts
 
